@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
 Hello ,I'm Anirudh.I have reverted to this branch
-=======
-Hello ,I'm Anirudh
->>>>>>> parent of 09e2409... naaame
